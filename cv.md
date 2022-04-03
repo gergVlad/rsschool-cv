@@ -15,3 +15,9 @@
 ## About myself:
 I am 35 years old, I work as a php programmer. My goal is to learn JavaScript.	That's why I`m here.
 
+## Skills
+- HTML
+- CSS
+- PHP
+- JavaScript (Basic)
+- Git
