@@ -15,14 +15,14 @@
 ## About myself:
 I am 35 years old, I work as a php programmer. My goal is to learn JavaScript.	That's why I`m here.
 
-## Skills
+## Skills:
 - HTML
 - CSS
 - PHP
 - JavaScript (Basic)
 - Git
 
-## Education
+## Education:
 - **Bachelor, Tashkent University of Information Technology**
     - Specialization: Television, Radiocommunication and radiobroadcasting
 - **Master, Tashkent University of Information Technology**
@@ -40,8 +40,8 @@ wrapper.addEventListener('click', (event) => {
 });
 ```
 
-## Experience
+## Experience:
 
-## Languages
+## Languages:
 - **Russian** - native speaker.
 - **English** - A1 (in process…)
