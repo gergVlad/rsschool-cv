@@ -12,4 +12,6 @@
 - **E-mail:** gergil.vladimir@yandex.com
 - **GitHub:** gergVlad
 
+## About myself:
+I am 35 years old, I work as a php programmer. My goal is to learn JavaScript.	That's why I`m here.
 
