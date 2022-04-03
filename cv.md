@@ -21,3 +21,12 @@ I am 35 years old, I work as a php programmer. My goal is to learn JavaScript.	T
 - PHP
 - JavaScript (Basic)
 - Git
+
+## Education
+- **Bachelor, Tashkent University of Information Technology**
+    - Specialization: Television, Radiocommunication and radiobroadcasting
+- **Master, Tashkent University of Information Technology**
+    - Specialization: Mobile Systems of Communication
+- **Udemy and Coursera**
+    - HTML/CSS
+	- JavaScript (in process…)
